@@ -17,6 +17,10 @@ expo start
 
 ![Alt text](./assets/Interstellar_capture.png?raw=true "Interstellar")
 
+<div >
+    <img src="./assets/Interstellar_capture.png" width="400px"> </img> 
+</div>
+
 - **Jhon doe** _alias_ [@outout14](https://github.com/outout14)
 
 Lisez la liste des [contributeurs](https://github.com/your/project/contributors) pour voir qui à aidé au projet !
