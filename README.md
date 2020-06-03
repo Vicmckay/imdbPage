@@ -1,6 +1,6 @@
 # Copie de page IMDB
 
-Il s'agit ici d'un premier projet utilisant React Native avec la copie d'une page IMDB pour bien prendre en main le scrolling horizontal et vertical ainsi que l'utilisation des feuilles de style.
+Il s'agit ici d'un premier projet utilisant React Native avec la copie d'une page IMDB pour bien prendre en main le scrolling horizontal et vertical ainsi que l'utilisation des feuilles de style. Le projet est optimisé pour IOS.
 Cette page a été réalisée lors de la formation avec Le Réacteur.
 
 ## Démarrage
